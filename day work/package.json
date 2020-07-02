@@ -1,0 +1,25 @@
+{
+  "name": "hero-Api",
+  "version": "1.0.0",
+  "description": "Hero API",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prabhash96isuru/web_api.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "isuru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prabhash96isuru/web_api/issues"
+  },
+  "homepage": "https://github.com/Prabhash96isuru/web_api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
