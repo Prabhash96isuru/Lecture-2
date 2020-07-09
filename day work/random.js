@@ -10,7 +10,10 @@ return new Promise((resolve, reject) =>{
 
     });
 }
-
+async function PrintMovieDetails(){
+    let moviData = await getMovieData();
+    console.log("3: MOVIE DATA  : "+ moviData);
+}
 
 
 /*using resolve promise
